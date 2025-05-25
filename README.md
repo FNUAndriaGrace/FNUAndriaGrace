@@ -55,6 +55,7 @@
 | [Resume Parser & Matching System](https://github.com/FNUAndriaGrace/Resume-Parsing) | NLP-based system to parse resumes & rank candidates by fit | spaCy, TF-IDF, OCR |
 | [Dog Heart VHS Detector](https://github.com/FNUAndriaGrace/NeuralNetwork_DeepLearning-/tree/main/project2) | InceptionV3 model to automate vertebral heart size estimation | PyTorch, CNN |
 | [Music Genre Classification](https://github.com/FNUAndriaGrace/NeuralNetwork_DeepLearning-/tree/main/Final_project) | Classify music using CNNs & spectral features | GTZAN, MFCC, CNN |
+| [Emotion Detection System](https://github.com/FNUAndriaGrace/Adva_NaturalLangaugeProcessing) | Fine-tuned BERT/LSTM model for real-time emotion classification with web UI | BERT, LSTM, Streamlit |
 | [CCSS Educational Alignment](https://github.com/FNUAndriaGrace/Internship-CCSS) | Recommendation engine for curriculum standards alignment | NLP, TF-IDF, Cosine Similarity |
 
 ---
